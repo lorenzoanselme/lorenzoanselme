@@ -1,5 +1,5 @@
 <p align="center">
-  <img src"[45b69ffd-c60a-443c-b3a3-02302d93544e.jpg](https://github.com/lorenzoanselme/lorenzoanselme/blob/68b6d5597a5dd831e9ea820e295cb556543828e7/45b69ffd-c60a-443c-b3a3-02302d93544e.jpg)" alt="Banner Lorenzo Anselme"/>
+  <img src="https://github.com/lorenzoanselme/lorenzoanselme/blob/68b6d5597a5dd831e9ea820e295cb556543828e7/45b69ffd-c60a-443c-b3a3-02302d93544e.jpg?raw=true" alt="Banner Lorenzo Anselme"/>
 </p>
 
 # 👋 Hi, I'm Lorenzo Anselme
