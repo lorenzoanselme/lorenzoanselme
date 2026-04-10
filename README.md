@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Lorenzo Anselme
 
-I'm a **22-year-old developer in training** at **Holberton School France**, currently learning web and software development through an intensive, **project-based and peer-learning program**.  
+I'm a **23-year-old developer in training** at **Holberton School France**, currently learning web and software development through an intensive, **project-based and peer-learning program**.  
 I'm passionate about building strong fundamentals in programming, scripting, and web development.
 
 ---
@@ -50,7 +50,7 @@ The curriculum includes:
 
 ## 🙋 About Me
 
-- Age: 22  
+- Age: 23
 - Based in France  
 - Curious, determined, and always learning  
 - Passionate about scripting, web development, and automation
